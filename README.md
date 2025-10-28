@@ -28,4 +28,4 @@ Two sensors (**LDR** and **Ultrasonic HC-SR04**) send data to the MQTT broker, w
 
 ---
 
-## Topic Tree
+
